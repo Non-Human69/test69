@@ -20,7 +20,7 @@
             </td>
             <td>
                 <select name="tempUnit1">
-                    <option value="celsius" selected>Celsiusssssssss</option>
+                    <option value="celsius" selected>Celsius</option>
                     <option value="fahrenheit">Fahrenheit</option>
                     <option value="kelvin">Kelvin</option>
                 </select>
