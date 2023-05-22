@@ -1,5 +1,6 @@
 <?php
     require("includes/head.php");
+    
 ?>
 <p>
     <?=$translation["explanation"]?>
